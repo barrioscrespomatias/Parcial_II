@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1542771734 source:d:\barrios crespo\barrioscrespo.matias_segundoparcial\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+
+1542807395 d:\barrios crespo\barrioscrespo.matias_segundoparcial\linkedlist.h
+
+1542811604 d:\barrios crespo\barrioscrespo.matias_segundoparcial\employee.h
+
+1542771734 d:\barrios crespo\barrioscrespo.matias_segundoparcial\parser.h
+
+1542811631 source:d:\barrios crespo\barrioscrespo.matias_segundoparcial\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Employee.h"
+
+1542811675 source:d:\barrios crespo\barrioscrespo.matias_segundoparcial\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1542811658 source:d:\barrios crespo\barrioscrespo.matias_segundoparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1542771734 d:\barrios crespo\barrioscrespo.matias_segundoparcial\controller.h
+
+1542803189 source:d:\barrios crespo\barrioscrespo.matias_segundoparcial\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1542771734 source:d:\barrios crespo\barrioscrespo.matias_segundoparcial\utn\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
+1542802738 d:\barrios crespo\barrioscrespo.matias_segundoparcial\utn\utn.h
+
