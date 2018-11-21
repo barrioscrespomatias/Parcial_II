@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1542651353 source:e:\repositorio github\nuevotp3\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Employee.h"
+
+1542555774 e:\repositorio github\nuevotp3\employee.h
+
+1542770269 source:e:\repositorio github\nuevotp3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1542769815 e:\repositorio github\nuevotp3\linkedlist.h
+
+1542190716 e:\repositorio github\nuevotp3\controller.h
+
+1542644860 source:e:\repositorio github\nuevotp3\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1541687491 source:e:\repositorio github\nuevotp3\utn\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
+1541687491 e:\repositorio github\nuevotp3\utn\utn.h
+
+1542767583 source:e:\repositorio github\nuevotp3\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+
+1542190716 e:\repositorio github\nuevotp3\parser.h
+
+1542769802 source:e:\repositorio github\nuevotp3\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+
